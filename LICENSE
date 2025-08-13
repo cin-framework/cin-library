@@ -1,16 +1,77 @@
-CIN LIBRARY LICENSE AGREEMENT
-Version 1.0 — © CIN Framework — All Rights Reserved
+# LICENSE
 
-This software and all its components are the exclusive property of CIN Framework.
+<div align="center">
+  <img src="assets/img/CIN.svg" alt="CIN Framework Logo" width="200" height="200">
+</div>
 
-You are granted:
-- The right to use and modify the software for personal or internal purposes only.
+<h1 align="center">CIN FRAMEWORK</h1>
+<h2 align="center">LIBRARY LICENSE AGREEMENT</h2>
 
-You are NOT granted:
-- The right to redistribute, sublicense, sell, or otherwise make the software available to any third party.
-- The right to remove or alter any copyright or trademark notices.
+<div align="center">
 
-Violation of these terms will result in immediate termination of your rights to use the software.
+[![Official Website](https://img.shields.io/badge/Official_Website-www.cin--framework.com-dc2626?style=for-the-badge)](https://www.cin-framework.com)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
+[![CIN CLI](https://img.shields.io/badge/CIN_CLI-Download-blue?style=for-the-badge)](https://github.com/cin-framework/cin-cli)
 
-For official versions, updates, and documentation, visit:
-https://www.cin-framework.com
+</div>
+
+---
+
+## PROPRIETARY LICENSE AGREEMENT
+
+**Version 1.0 — © CIN Framework — All Rights Reserved**
+
+This software and all its components are the exclusive property of CIN Framework and Ayoub Alarjani (Mawi Man).
+
+---
+
+## GRANTED RIGHTS
+
+### ✅ You are granted:
+- The right to use and modify the software for personal or internal purposes only
+- Access to library components through official CIN CLI distribution
+- Technical support through official channels
+
+---
+
+## RESTRICTED RIGHTS
+
+### ❌ You are NOT granted:
+- The right to redistribute, sublicense, sell, or otherwise make the software available to any third party
+- The right to remove or alter any copyright or trademark notices
+- The right to distribute modified versions outside your organization
+- The right to reverse engineer or decompile the software
+
+---
+
+## COMPLIANCE AND ENFORCEMENT
+
+**Violation of these terms will result in immediate termination of your rights to use the software.**
+
+For official versions, updates, and documentation, visit: [www.cin-framework.com](https://www.cin-framework.com)
+
+For CLI management and downloads, visit: [github.com/cin-framework/cin-cli](https://github.com/cin-framework/cin-cli)
+
+---
+
+## CONTACT INFORMATION
+
+**Legal Inquiries**: admin@cin-framework.com
+
+**Technical Support**: support@cin-framework.com
+
+**General Contact**: contact@cin-framework.com
+
+**Creator**: mawi@cin-framework.com
+
+---
+
+## LEGAL INFORMATION
+
+**Copyright © 2025 Ayoub Alarjani (Mawi Man). All Rights Reserved.**
+
+This license agreement is legally binding and enforceable under applicable copyright and intellectual property laws.
+
+---
+
+*Licensed software distributed through CIN CLI - Available at github.com/cin-framework/cin-cli*
