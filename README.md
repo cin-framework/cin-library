@@ -1,7 +1,7 @@
-# CIN LIBRARY
+# **CIN Library**
 
 <div align="center">
-  <img src="https://cin-framework.github.io/.github/assets/img/CIN.svg" alt="logo cin framework" width="200" height="200">
+  <img src="https://cin-framework.github.io/.github/assets/img/CIN.svg" alt="CIN Framework Logo" width="200" height="200">
 </div>
 
 <h1 align="center">CIN FRAMEWORK</h1>
@@ -11,6 +11,7 @@
 
 [![Official Website](https://img.shields.io/badge/Official_Website-www.cin--framework.com-dc2626?style=for-the-badge)](https://www.cin-framework.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-View_Policy-orange?style=for-the-badge)](SECURITY.md)
 [![CIN CLI](https://img.shields.io/badge/CIN_CLI-Download-blue?style=for-the-badge)](https://github.com/cin-framework/cin-cli)
 
 </div>
@@ -70,21 +71,17 @@
 
 ---
 
-## 📜 LICENSE INFORMATION
+## 📜 LEGAL INFORMATION
 
-This library is proprietary software under the CIN Framework Proprietary License.
+This library is proprietary software protected under the CIN Framework Proprietary License.  
+All rights are reserved by **CIN Framework**.  
+You may **modify** the source code for personal or internal use.  
+You may **NOT** redistribute, sublicense, or sell this library in any form.
 
-**Rights Granted**:
-- Modify source code for personal or internal use
-- Access through official CIN CLI distribution
-
-**Rights Reserved**:
-- Redistribution, sublicensing, or selling prohibited
-- Commercial distribution not permitted
-- All rights reserved by CIN Framework
+Unauthorized use is strictly prohibited.
 
 ---
 
-*Managed through CIN CLI - Available at github.com/cin-framework/cin-cli*
+*Last Updated: 2025-08-21*
 
-> © CIN FRAMEWORK — All Rights Reserved.
+> © 2025 CIN FRAMEWORK — All Rights Reserved.
