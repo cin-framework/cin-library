@@ -1,4 +1,4 @@
-# **CIN Library**
+# **CIN Library V1.0.0**
 
 <div align="center">
   <img src="https://cin-framework.github.io/.github/assets/img/CIN.svg" alt="CIN Framework Logo" width="200" height="200">
@@ -20,7 +20,7 @@
 
 ## REPOSITORY PURPOSE
 
-**CIN Library** contains the official libraries for the CIN Framework. These libraries extend and enhance the functionality of CIN Framework for advanced web development.
+**CIN Library V1.0.0** contains the official comprehensive collection of ready-to-use components for the CIN Framework. These libraries provide seamless integration, advanced utilities, and complete documentation to extend and enhance the functionality of CIN Framework for advanced web development.
 
 **IMPORTANT**: This repository is for library storage purposes only. All downloads and installations must be performed using CIN CLI.
 
