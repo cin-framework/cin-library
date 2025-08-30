@@ -22,27 +22,65 @@
 
 **CIN Library** contains the official comprehensive collection of ready-to-use components for the CIN Framework. These libraries provide seamless integration, advanced utilities, and complete documentation to extend and enhance the functionality of CIN Framework for advanced web development.
 
+**CURRENT STATUS**: This repository currently contains:
+- **test** library (v1.0.0) - Testing and development purposes only
+
 **IMPORTANT**: This repository is for library storage purposes only. All downloads and installations must be performed using CIN CLI.
 
 ---
 
-## 📥 DOWNLOAD AND INSTALLATION
+## 📚 AVAILABLE LIBRARIES
 
-### 🔧 CIN CLI Management
+### Current Libraries
 
-**Primary Method**: Use [CIN CLI](https://github.com/cin-framework/cin-cli) for all framework and library operations
+| Library Name | Version | Status | Description | Install Command | Delete Command |
+|--------------|---------|--------|-------------|-----------------|----------------|
+| **test** | v1.0.0 | Testing | Development and testing library for CIN Framework functionality | `cin-cli install library test` or `cin-cli install library test v1.0.0` | `cin-cli delete library test` |
 
-**Features**:
+**Note**: More libraries will be added in future releases to expand CIN Framework capabilities.
+
+---
+
+## 📥 LIBRARY MANAGEMENT
+
+### 🔧 CIN CLI Commands
+
+**Primary Method**: Use [CIN CLI](https://github.com/cin-framework/cin-cli) for all library operations
+
+#### Installation Commands
+```bash
+# Install latest version of a library
+cin-cli install library <library_name>
+
+# Install specific version of a library
+cin-cli install library <library_name> <version>
+
+# Examples:
+cin-cli install library test
+cin-cli install library test v1.0.0
+```
+
+#### Deletion Commands
+```bash
+# Delete a library
+cin-cli delete library <library_name>
+
+# Example:
+cin-cli delete library test
+```
+
+#### Management Features
 - Download library folders based on required version
 - Get the latest release for immediate use
 - Manage complete CIN Framework ecosystem
 - Automated updates and version control
+- Easy installation and removal of libraries
 
-### 📋 Installation Steps
+### 📋 Setup Steps
 
 1. **Download CIN CLI**: Visit [github.com/cin-framework/cin-cli](https://github.com/cin-framework/cin-cli)
 2. **Install Framework**: Use CIN CLI to download and install CIN Framework
-3. **Manage Libraries**: Access and install required libraries through CLI commands
+3. **Manage Libraries**: Use the commands above to install/remove libraries
 4. **Documentation**: Follow official guides at [www.cin-framework.com](https://www.cin-framework.com)
 
 ---
