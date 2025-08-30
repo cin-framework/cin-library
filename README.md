@@ -33,9 +33,9 @@
 
 ### Current Libraries
 
-| Library Name | Version | Status | Description | Install Command | Delete Command |
-|--------------|---------|--------|-------------|-----------------|----------------|
-| **test** | v1.0.0 | Testing | Development and testing library for CIN Framework functionality | `install library test` or `install library test v1.0.0` | `delete library test` |
+| Library Name | Version | Status | Description | Install Command | Delete Command | Update Command |
+|--------------|---------|--------|-------------|-----------------|----------------|----------------|
+| **test** | v1.0.0 | Testing | Development and testing library for CIN Framework functionality | `install library test` or `install library test v1.0.0` | `delete library test` | `update library test` |
 
 **Note**: More libraries will be added in future releases to expand CIN Framework capabilities.
 
@@ -69,12 +69,21 @@ delete library <library_name>
 delete library test
 ```
 
+#### Update Commands
+```bash
+# Update a library to latest version
+update library <library_name>
+
+# Example:
+update library test
+```
+
 #### Management Features
 - Download library folders based on required version
 - Get the latest release for immediate use
 - Manage complete CIN Framework ecosystem
 - Automated updates and version control
-- Easy installation and removal of libraries
+- Easy installation, removal, and updating of libraries
 
 ### 📋 Setup Steps
 
