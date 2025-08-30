@@ -35,7 +35,7 @@
 
 | Library Name | Version | Status | Description | Install Command | Delete Command |
 |--------------|---------|--------|-------------|-----------------|----------------|
-| **test** | v1.0.0 | Testing | Development and testing library for CIN Framework functionality | `cin-cli install library test` or `cin-cli install library test v1.0.0` | `cin-cli delete library test` |
+| **test** | v1.0.0 | Testing | Development and testing library for CIN Framework functionality | `install library test` or `install library test v1.0.0` | `delete library test` |
 
 **Note**: More libraries will be added in future releases to expand CIN Framework capabilities.
 
@@ -50,23 +50,23 @@
 #### Installation Commands
 ```bash
 # Install latest version of a library
-cin-cli install library <library_name>
+install library <library_name>
 
 # Install specific version of a library
-cin-cli install library <library_name> <version>
+install library <library_name> <version>
 
 # Examples:
-cin-cli install library test
-cin-cli install library test v1.0.0
+install library test
+install library test v1.0.0
 ```
 
 #### Deletion Commands
 ```bash
 # Delete a library
-cin-cli delete library <library_name>
+delete library <library_name>
 
 # Example:
-cin-cli delete library test
+delete library test
 ```
 
 #### Management Features
