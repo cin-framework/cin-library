@@ -118,6 +118,25 @@ update library test
 
 ---
 
+## 🌐 OFFICIAL RESOURCES
+
+**Website**: [www.cin-framework.com](https://www.cin-framework.com)
+
+**Related Repositories**:
+- **CIN Framework Core**: [https://github.com/cin-framework/cin-framework](https://github.com/cin-framework/cin-framework)
+- **CIN CLI Tool**: [https://github.com/cin-framework/cin-cli](https://github.com/cin-framework/cin-cli)
+- **CIN Library**: [https://github.com/cin-framework/cin-library](https://github.com/cin-framework/cin-library)
+- **Official Website**: [https://github.com/cin-framework/.github](https://github.com/cin-framework/.github)
+
+**Contact Information**:
+- **Support**: support@cin-framework.com
+- **General Contact**: contact@cin-framework.com
+- **Development**: dev@cin-framework.com
+- **Administration**: admin@cin-framework.com
+- **Creator**: mawi@cin-framework.com
+
+---
+
 ## 📜 LEGAL INFORMATION
 
 This library is proprietary software protected under the CIN Framework Proprietary License.  
@@ -128,5 +147,7 @@ You may **NOT** redistribute, sublicense, or sell this library in any form.
 Unauthorized use is strictly prohibited.
 
 ---
+
+*Last Updated: 2025-01-20*
 
 > © 2025 CIN FRAMEWORK — All Rights Reserved.
