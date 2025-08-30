@@ -252,7 +252,7 @@ Need help or have questions?
 
 ## 📜 Legal Information
 
-**Copyright © 2025-08-21 CIN FRAMEWORK. All Rights Reserved.**
+**Copyright © CIN FRAMEWORK. All Rights Reserved.**
 
 Developed by Ayoub Alarjani (Mawi Man) | Official Website: [www.cin-framework.com](https://www.cin-framework.com)
 
@@ -268,7 +268,7 @@ This library is proprietary software. All contributions are subject to the CIN F
 ### Intellectual Property
 All library components, documentation, and associated materials are the exclusive property of CIN Framework and are protected by international copyright laws.
 
-This contribution policy is governed by the laws of Morocco and is effective as of 2025-08-21.
+This contribution policy is governed by the laws of Morocco and is effective as of 2025.
 
 ---
 
